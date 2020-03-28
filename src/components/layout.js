@@ -67,9 +67,17 @@ class Layout extends React.Component {
           <main>{children}</main>
         </div>
         <Footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
+          © {new Date().getFullYear()} Kamara.io, Built with
+          {`  `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
+          {` - `}
+          {` Social Networks`}
+          {` | `}
+          <a href="https://www.linkedin.com/in/ernestkamara">Linkedin</a>    
+          {` | `}
+          <a href="https://twitter.com/ernestkamara">Twitter</a>    
+          {` | `}
+          <a href="https://github.com/ernestkamara">Github</a>    
         </Footer>
       </Wrapper>
     )
