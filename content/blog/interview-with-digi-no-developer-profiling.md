@@ -4,9 +4,8 @@ date: 2020-09-04T20:49:43.057Z
 title: Interview with digi.no (Developer profiling)
 description: >-
   Last week I had the privilege to be featured as [digi.no](www.digi.no)'s
-  developer profile of the week. One of Norway's biggest tech website. I gave an
-  account of my developer journey and some insights on how modern technologies
-  has changed the way we work today.
+  developer profile of the week. I gave an account of my developer journey and
+  more.
 ---
 Last week I had the privilege to be featured as [digi.no](www.digi.no)'s developer profile of the week. One of Norway's biggest tech website. I gave an account of my developer journey and some insights on how modern technologies has changed the way we work today.
 
