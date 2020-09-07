@@ -6,6 +6,14 @@ description: >-
   Write a function that's returns the first most repeating character in a
   sentence in Python. For ex.: "aabcddds" -> ("d", 3)
 ---
+# Python Mastery with Mosh
+
+### Exercise: Most repeating character in a sentence.
+
+Write a function that's returns the first most repeating character in a sentence in Python. 
+
+For ex.: "aabcddds" -> ("d", 3)
+
 ```python
 def most_char_frequency(sentence):
     char_frequency = {}
