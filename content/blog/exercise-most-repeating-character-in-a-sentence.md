@@ -1,5 +1,5 @@
 ---
-path: blog
+path: blog/Python Mastery with Mosh
 date: 2020-09-07T19:20:36.287Z
 title: 'Exercise: Most repeating character in a sentence.'
 description: >-
