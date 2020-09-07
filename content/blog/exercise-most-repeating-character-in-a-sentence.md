@@ -1,15 +1,11 @@
 ---
-path: blog/Python Mastery with Mosh
+path: Python Mastery with Mosh
 date: 2020-09-07T19:20:36.287Z
-title: 'Exercise: Most repeating character in a sentence.'
+title: Python Mastery with Mosh Exercise; Most repeating character in a sentence.
 description: >-
   Write a function that's returns the first most repeating character in a
   sentence in Python.
 ---
-# Python Mastery with Mosh
-
-### Exercise: Most repeating character in a sentence.
-
 Write a function that's returns the first most repeating character in a sentence in Python. 
 
 For ex.: "aabcddds" -> ("d", 3)
